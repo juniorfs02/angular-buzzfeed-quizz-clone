@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria um jogador de futebol clássico ou moderno?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O que é mais importante antes de uma partida de futebol?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Estar confiante", "alias":"A"},
+        {"id": 2, "name":"Conhecer o time adversário", "alias":"B"},
+        {"id": 3, "name":"Estar com a chuteira nova", "alias":"A"},
+        {"id": 4, "name":"Estar preparado fisicamente", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Que tipo de chuteira você prefere?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Chuteira preta", "alias":"A"},
+        {"id": 2, "name":"Chuteira colorida", "alias":"A"},
+        {"id": 3, "name":"Sem preferências de cor", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual sua preparação antes de uma partida?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Procuro estudar o time adversário", "alias":"A"},
+        {"id": 2, "name":"Me preparo ficamente e mentalmente", "alias":"A"},
+        {"id": 3, "name":"Não faço nada, apenas jogo", "alias":"B"},
+        {"id": 4, "name":"Ouço musicas para descontrair", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Onde você preferiria jogar?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Em times brasileiros", "alias":"B"},
+        {"id": 2, "name":"Em times europeus", "alias":"A"},
+        {"id": 3, "name":"Em times da Arábia, ou que pagam um maior salário", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Como usa o meião?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Meião alto", "alias":"A"},
+        {"id": 2, "name":"Meião arreado (baixo)", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente é um jogador moderno!",
+    "B": "Você muito provavelmente é um jogador clássico!"
   }
 }
